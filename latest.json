@@ -1,12 +1,12 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "setup": {
-    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.3.1/Orialis-Mail-Setup-0.3.1.exe",
-    "sha256": "2174872db68a67d921e1b2cd21221361bdda3a948f6c58bddadf95812ea0d9d0"
+    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.3.2/Orialis-Mail-Setup-0.3.2.exe",
+    "sha256": "1fa6774eec298cf9329d3570a409ed517d56c52c2b8a920b4b73de1d77227327"
   },
   "xpi": {
-    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.3.1/orialis-mail-0.3.1.xpi",
-    "sha256": "7b0e530d190782de06800addc4cc6eb85f3aa608d6631cb3676907e658b3b746"
+    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.3.2/orialis-mail-0.3.2.xpi",
+    "sha256": "cd10b0a857d17a8f9804c49307fd881b60726bfa0df9f2e1adc3b861a8bbe2e2"
   },
-  "date": "2026-09-28T21:16:42.019Z"
+  "date": "2026-09-28T21:20:34.624Z"
 }
