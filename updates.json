@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "orialis-mail@djoux.local": {
+      "updates": [
+        {
+          "version": "0.4.2",
+          "update_link": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.2/orialis-mail-0.4.2.xpi",
+          "update_hash": "sha256:348917a2a85fe2cd098d6983718a90f37defbbc377eb3ee785cb263c618f3945",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "128.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
