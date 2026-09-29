@@ -1,13 +1,13 @@
 {
-  "version": "0.4.4",
+  "version": "0.4.5",
   "setup": {
-    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.4/Orialis-Mail-Setup-0.4.4.exe",
-    "sha256": "fe57183a8ad7b1803e57d6cb9ed542d17802174dbd5385926a0207666863dffe"
+    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.5/Orialis-Mail-Setup-0.4.5.exe",
+    "sha256": "ca79ab32bf5bd28bbd1fac9a03c04a33ae287c9da2adb6641b558796344c577f"
   },
   "xpi": {
-    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.4/orialis-mail-0.4.4.xpi",
-    "sha256": "b40c9c67d395780e1dfc1bba45c5e8d21abcc31fabdc118312a2a43ce183aa9d"
+    "url": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.5/orialis-mail-0.4.5.xpi",
+    "sha256": "59f1eed6482ac4fdeea915f5e67a679bc07ca16ad21a1a240f404a16f2990fa8"
   },
-  "signature": "zEeZUbQQqv2UUvjVEKuXdA3Qc3BXqoQ+EgKCmUk4UKtLmktLU3XqpC4CvGHw0wEdOup/x3YQPfcOEIJBvIloBA==",
-  "date": "2026-09-29T16:39:51.351Z"
+  "signature": "L1Ekt+NIn9wmfvacE9q00q2mPf8s09zoVzHLLQTHDEgeBi6qhC0njig/PCDk0IwrVuv02d928/3u0F9rgWhwDg==",
+  "date": "2026-09-29T16:53:44.674Z"
 }
