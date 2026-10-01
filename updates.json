@@ -3,9 +3,9 @@
     "orialis-mail@djoux.local": {
       "updates": [
         {
-          "version": "0.4.21",
-          "update_link": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.21/orialis-mail-0.4.21.xpi",
-          "update_hash": "sha256:1ccea23c04e7b13b66b572b532e48ea7af0a08dd31bed95257e761d908fa34a3",
+          "version": "0.4.28",
+          "update_link": "https://github.com/Djouz83/orialis-mail-releases/releases/download/v0.4.28/orialis-mail-0.4.28.xpi",
+          "update_hash": "sha256:b1b39469cf4f1e56dc991a3993bc96cc6f101285391c9e1f6ddd91d06250f6b8",
           "applications": {
             "gecko": {
               "strict_min_version": "128.0"
